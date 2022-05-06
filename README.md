@@ -1,7 +1,7 @@
 LBN BOT SPOTTER
 ==============================
 
-A Linear Model For Detecting Fake Users In LBN Website
+A Logistic Regreession Model For Detecting Fake Users In LBN Website
 
 ## Getting Started
 Installation
