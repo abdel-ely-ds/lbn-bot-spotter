@@ -47,6 +47,6 @@ Project Organization
     ├── requirements.txt   <- The requirements file contains all the necessary libs to run the project
     ├── src                <- Source code for the project.
     ├── tests              <- tests forlder
-    └──noxfile.py          <- black, build, tests               
+    └── noxfile.py          <- black, build, tests               
 
 --------
