@@ -6,8 +6,8 @@ A Linear Model For Detecting Fake Users In LBN Website
 ## Getting Started
 Installation
 ------------
-    $ git clone 
-    $ cd 
+    $ git clone https://github.com/abdel-ely-ds/lbn-bot-spotter.git
+    $ cd lbn-bot-spotter
     $ pip install .
 
 Usage
