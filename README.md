@@ -21,7 +21,7 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 
 from bot_spotter import Spotter
-from constants import DATA_FILE, DATA_FOLDER, LABEL
+from bot_spotter.constants import DATA_FILE, DATA_FOLDER, LABEL
 
 raw_data = pd.read_csv(os.path.join("../", DATA_FOLDER, DATA_FILE))
 train, val = train_test_split(random_state=0, test_size=0.2)
